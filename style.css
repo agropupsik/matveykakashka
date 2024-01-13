@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: aqua;
+    
+}
+main h1{
+    color: blueviolet;
+    text-align: center;
+}
+footer p{
+  background-color: chartreuse;
+}
+
+nav{
+    background-color: rgb(166, 255, 166);
+    padding: 10px;
+}
+nav a{
+    color: black;
+}
+main h2{
+    color: blue;
+}
